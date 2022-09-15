@@ -7,8 +7,8 @@ tags:
 - groovy
 - web
 upforgrabs:
-  name: up-for-grabs
-  link: https://github.com/grails/grails-core/labels/up-for-grabs
+  name: 'info: up for grabs'
+  link: https://github.com/grails/grails-core/labels/info%3A%20up%20for%20grabs
 stats:
   issue-count: 1
-  last-updated: '2019-10-01T12:35:25Z'
+  last-updated: '2021-05-03T19:41:51Z'

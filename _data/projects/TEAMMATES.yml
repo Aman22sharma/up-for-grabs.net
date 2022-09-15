@@ -12,8 +12,8 @@ tags:
 - web
 - education
 upforgrabs:
-  name: d.FirstTimers
-  link: https://github.com/TEAMMATES/teammates/labels/d.FirstTimers
+  name: good first issue
+  link: https://github.com/TEAMMATES/teammates/labels/good%20first%20issue
 stats:
-  issue-count: 4
-  last-updated: '2019-10-01T16:40:45Z'
+  issue-count: 5
+  last-updated: '2022-09-13T12:27:01Z'
